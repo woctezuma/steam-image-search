@@ -15,6 +15,10 @@ Run [`steam_image_search.ipynb`][colab-notebook].
 
 ## Results
 
+Below are shown results for:
+-   [image search][results_image_search], i.e. using natural language queries,
+-   [reverse image search][results_reverse_image_search], i.e. using image queries.
+
 ### Image Search
 
 ![Results A](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/results_A.jpg)
@@ -47,6 +51,8 @@ Run [`steam_image_search.ipynb`][colab-notebook].
 [google-vit]: <https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html>
 [colab-notebook]: <https://colab.research.google.com/github/woctezuma/steam-image-search/blob/main/steam_image_search.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+[results_image_search]: <https://github.com/woctezuma/steam-image-search#image-search>
+[results_reverse_image_search]: <https://github.com/woctezuma/steam-image-search#reverse-image-search>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
 [web-app-using-id]: <https://damp-brushlands-51855.herokuapp.com/render/1091500/>
 [web-app-using-text]: <https://woctezuma.github.io/steam-svelte-autocomplete/index.html>
