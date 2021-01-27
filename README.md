@@ -15,6 +15,8 @@ Run [`steam_image_search.ipynb`][colab-notebook].
 
 ## Results
 
+### Image Search
+
 ![Results A](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/results_A.jpg)
 
 ![Results B](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/results_B.jpg)
@@ -24,6 +26,12 @@ Run [`steam_image_search.ipynb`][colab-notebook].
 ![Results D](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/results_D.jpg)
 
 ![Results E](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/results_E.jpg)
+
+### Reverse Image Search
+
+![Reverse A](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/reverse_A.jpg)
+
+![Reverse B](https://raw.githubusercontent.com/wiki/woctezuma/steam-image-search/img/reverse_B.jpg)
 
 ## References
 
