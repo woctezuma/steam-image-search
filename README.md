@@ -40,8 +40,8 @@ Below are shown results for:
 ## References
 
 - [`steam-CLIP`][banner-repository-CLIP]: retrieve games using image queries,
-   - interatice exploration with a web app [using an appID][web-app-using-id],
-   - interatice exploration with a web app [using a dropdown menu][web-app-using-text].
+   - interactive exploration with a web app [using an appID][web-app-using-id],
+   - interactive exploration with a web app [using a dropdown menu][web-app-using-text].
 - [`steam-image-search`][natural-language-search]: retrieve games using natural language queries,
 
 <!-- Definitions -->
